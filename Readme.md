@@ -1,7 +1,6 @@
 Natural Language Processing (NLP) is a field at the intersection of computer science, artificial intelligence, and linguistics, focused on enabling machines to understand, interpret, and generate human language. NLP powers a wide range of applications like language translation, sentiment analysis, text summarization, and chatbots. Here’s a breakdown of key areas, techniques, and approaches used in NLP
 
 
-
 1. Text Preprocessing
 Before working with text data, it often needs to be cleaned and preprocessed. This involves:
 
