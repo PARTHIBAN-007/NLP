@@ -25,7 +25,6 @@ Tools: Scikit-Learn’s CountVectorizer and TfidfVectorizer.
 Embeddings are dense vector representations where semantically similar words have similar vectors. Common techniques include:
 
 Word2Vec: Creates embeddings using the Continuous Bag of Words (CBOW) or Skip-Gram model, capturing semantic relationships between words.
-GloVe (Global Vectors): Produces embeddings based on word co-occurrence statistics in a corpus.
 FastText: Extends Word2Vec by learning embeddings for subwords, handling rare words more effectively.
 Tools: Gensim, FastText library, and pre-trained embeddings (e.g., GloVe, Word2Vec).
 
